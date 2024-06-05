@@ -39,3 +39,7 @@ main
 main {
     background-color: antiquewhite;
 }
+
+.color{
+    border-radius: 7px;
+}
